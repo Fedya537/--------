@@ -1,0 +1,28 @@
+img{
+    width: 17vw;
+    margin: 15px;
+    object-fit: cover;
+}
+
+.container {
+    width: 70vw;
+    margin: 10px auto;
+    padding: 10px;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.center{
+    text-align: center;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
